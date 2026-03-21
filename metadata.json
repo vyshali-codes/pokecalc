@@ -1,0 +1,5 @@
+{
+  "name": "PokéCalc",
+  "description": "A retro Pokémon-themed handheld calculator with interactive spark effects and a playful Game Boy aesthetic.",
+  "requestFramePermissions": []
+}
