@@ -1,20 +1,36 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+A fun and interactive web-based calculator inspired by the Pokémon universe. PokeCalculator combines utility with creativity by delivering a visually engaging calculator experience using a Pokémon-themed interface.
 
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/02f1f4ad-876d-429f-80fe-8e2f3c1fedec
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+🎯 Features
+🧮 Basic arithmetic operations (Addition, Subtraction, Multiplication, Division)
+🎮 Pokémon-themed UI/UX design
+⚡ Smooth and responsive button interactions
+📱 Fully responsive (works on mobile & desktop)
+🔄 Clear and reset functionality
+🎨 Styled with modern CSS for an engaging look
+🛠️ Tech Stack
+HTML5 – Structure
+CSS3 – Styling & animations
+JavaScript – Logic and interactivity
+📂 Project Structure
+PokeCalculator/
+│── index.html
+│── style.css
+│── script.js
+│── assets/
+│     ├── images/
+│     └── icons/
+🚀 Getting Started
+Clone the repository
+git clone https://github.com/your-username/pokecalculator.git
+Navigate to the project folder
+cd pokecalculator
+Open index.html in your browser
+💡 How It Works
+Users input numbers using the on-screen buttons
+JavaScript handles calculations and updates the display in real-time
+CSS ensures a smooth and visually appealing experience
+🌟 Future Improvements
+🔊 Sound effects (Pokémon-style button clicks)
+🎨 Multiple themes (Dark, Neon, Retro Pokédex)
+🧠 Advanced calculations (scientific mode)
+🧩 Mini Pokémon animations
