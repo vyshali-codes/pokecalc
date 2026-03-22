@@ -14,7 +14,7 @@ A fun and interactive web-based calculator inspired by the Pokémon universe. Po
 🛠️ Tech Stack
 HTML5 – Structure
 CSS3 – Styling & animations
-JavaScript – Logic and interactivity
+Typescript – Logic and interactivity
 📂 Project Structure
 PokeCalculator/
 │── index.html
