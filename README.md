@@ -7,6 +7,10 @@ A fun and interactive web-based calculator inspired by the Pokémon universe. Po
 📱 Fully responsive (works on mobile & desktop)
 🔄 Clear and reset functionality
 🎨 Styled with modern CSS for an engaging look
+🔊 Sound effects (Pokémon-style button clicks)
+🎨 Multiple themes (Dark, Neon, Retro Pokédex)
+🧠 Advanced calculations (scientific mode)
+🧩 Mini Pokémon animations
 🛠️ Tech Stack
 HTML5 – Structure
 CSS3 – Styling & animations
@@ -20,8 +24,6 @@ PokeCalculator/
 │     ├── images/
 │     └── icons/
 🚀 Getting Started
-Clone the repository
-git clone https://github.com/your-username/pokecalculator.git
 Navigate to the project folder
 cd pokecalculator
 Open index.html in your browser
@@ -29,8 +31,3 @@ Open index.html in your browser
 Users input numbers using the on-screen buttons
 JavaScript handles calculations and updates the display in real-time
 CSS ensures a smooth and visually appealing experience
-🌟 Future Improvements
-🔊 Sound effects (Pokémon-style button clicks)
-🎨 Multiple themes (Dark, Neon, Retro Pokédex)
-🧠 Advanced calculations (scientific mode)
-🧩 Mini Pokémon animations
